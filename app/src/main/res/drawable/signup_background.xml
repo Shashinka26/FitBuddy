@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Shape with Rounded Corners -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="30dp" LeftRadius="30dp" android:bottomRightRadius="30dp" RightRadius="30dp"/>
+            <gradient
+                android:angle="180"
+                android:startColor="#2E6F57"
+                android:endColor="#4E8F74" />
+        </shape>
+    </item>
+
+</layer-list>
