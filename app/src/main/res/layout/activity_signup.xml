@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/signup_background"
-        android:text="Let's\nCreate\nYour\nAccount"
+        android:text="SIGN UP"
         android:textColor="@color/white"
         android:textSize="26sp"
         android:textStyle="bold"
